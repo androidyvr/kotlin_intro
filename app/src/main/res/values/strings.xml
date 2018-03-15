@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kotlin Demo</string>
+    <string name="containYourself">Contain yourself!</string>
+    <string name="dontClickMe">Don\'t click me!</string>
+    <string name="stopIt">Stop it!</string>
+    <string name="goAway">Go away!</string>
+    <string name="activityCreated">Activity Created!</string>
+    <string name="contactsPermission">Read Contacts</string>
+    <string name="contactsPermissionRationale">Hand over your contacts or else, punk!</string>
+    <string name="showContacts">Show Contacts</string>
+    <string name="permissionDenied">Permission denied.</string>
+    <string name="nContacts">%1$d contacts</string>
+</resources>
